@@ -1,4 +1,4 @@
-# Test Index for RTD
+# Test Index for RTD in rst
 
 ## Project layout
 
