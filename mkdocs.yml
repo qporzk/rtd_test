@@ -1,0 +1,4 @@
+site_name: Read The Docs
+nav:
+    - Home: index.md
+    - Test Page: testPage.md
