@@ -4,10 +4,4 @@ nav:
     - Test Page: testPage.md
     
 theme:
-  logo: 'img/Primary_Logo.svg'
   name: 'material'
-  palette:
-    primary: 'blue'
-    accent: 'light green'
-  feature:
-      tabs: false
