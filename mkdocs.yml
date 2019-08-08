@@ -2,3 +2,12 @@ site_name: Read The Docs
 nav:
     - Home: index.md
     - Test Page: testPage.md
+    
+theme:
+  logo: 'img/Primary_Logo.svg'
+  name: 'material'
+  palette:
+    primary: 'blue'
+    accent: 'light green'
+  feature:
+      tabs: false
